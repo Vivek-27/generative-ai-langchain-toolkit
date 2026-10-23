@@ -1,0 +1,10 @@
+Apache Kafka is an open-source, distributed event streaming platform used to collect, store, process, and route real-time data feeds.
+Alternatively, "Kafka" may refer to Franz Kafka (1883–1924), a famous German-language Jewish novelist from Prague.
+
+Key Concepts of Apache Kafka
+
+• Producers: Applications that create and publish records or events to Kafka.
+• Consumers: Applications that subscribe to topics and read the published records.
+• Topics & Partitions: Named streams that organize messages, split across multiple servers (brokers) for horizontal scaling.
+• Brokers: Kafka servers that store data, handle client requests, and replicate data for fault tolerance.
+• Persistence & Replay: Unlike traditional message queues that delete data after reading, Kafka stores messages on disk for a configurable retention period, allowing data replays.

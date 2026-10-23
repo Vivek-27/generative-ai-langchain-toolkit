@@ -1,0 +1,9 @@
+Docker is a containerization platform.
+
+Containers package an application together with its dependencies.
+
+Docker images are templates used to create containers.
+
+Docker containers are isolated environments in which applications run.
+
+Docker is commonly used for development, testing, CI/CD, and deployment.
